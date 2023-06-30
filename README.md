@@ -5,7 +5,7 @@ This Website is connected to SQl database using XAMPP application.
 
 ## Screenshots
 
-![alt text](ScreenSHots/screenshot 1.png "Logo Title Text 1")
+![alt text](ScreenSHots/screenshot%20%1.png "Logo Title Text 1")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
